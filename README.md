@@ -14,7 +14,6 @@ Olá, sou o Renan um adolescente apaixonado por tecnologia.
 ## Estatísticas do GitHub
 
 [![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg)](https://github.com/orenandev)
-
 [![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg)](https://github.com/orenandev)
 
 ## Discord
