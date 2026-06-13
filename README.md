@@ -5,7 +5,7 @@ Olá, sou [Renan](https://orenandev.squareweb.app/), um adolescente apaixonado p
 ## Sobre Mim
 
 * 🎓 Atualmente cursando o Ensino Medio.
-* 💼 4 anos de experiência em programação.
+* 🤓 4 anos de experiência em programação.
 
 ## Stacks
 
