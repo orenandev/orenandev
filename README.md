@@ -13,9 +13,9 @@ Olá, sou o Renan um adolescente apaixonado por tecnologia.
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub do HeyyCzer](https://github.com/orenandev/orenandev/blob/output/stats.svg)](https://github.com/orenandev)
+[![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg)](https://github.com/orenandev)
 
-[![Linguagens Mais Utilizadas por HeyyCzer](https://github.com/orenandev/orenandev/blob/output/top-langs.svg)](https://github.com/orenandev)
+[![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg)](https://github.com/orenandev)
 
 ## Discord
 
