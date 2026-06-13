@@ -1,74 +1,30 @@
-<h1 align="left">👋 Olá, sou o Renan</h1>
+# Seja Bem-vindo ao Meu Perfil 👋
 
-<h2 align="left">🧠 Sobre mim</h2>
+Olá, sou o Renan um adolescente apaixonado por tecnologia.
 
-###
+## Sobre Mim
 
-<p align="left">
-  Me chamo Renan, sou desenvolvedor com experiência em aplicações web, bots, sistemas e jogos na plataforma do Roblox.<br> Tenho trabalhado com diversas comunidades e grupos, contribuindo desde o desenvolvimento de sistemas internos até experiências completas de jogos para milhares de jogadores.<br> Adoro resolver problemas complexos com código limpo, e estou sempre aprendendo novas tecnologias para expandir meu repertório.
-</p>
+* 🎓 Atualmente cursando o Ensino Medio.
+* 💼 4 anos de experiência em programação.
 
-###
+## Stacks
 
-<h2 align="left">🏗 Projetos</h2>
+![Skill Badges](https://skillicons.dev/icons?i=js,html,css,robloxstudio,mysql,mongodb,python,git,github,discord)
 
-<p align="left">
-  <b>🔹 Wolf Side</b><br>
-  DEV · Servidor FiveM<br>
-  • Atuo como programador de bots e desenvolvendo algumas apis para o servidor<br>
-  <b>🔹 Litoral RP</b><br>
-  CMO · Servidor Roblox<br>
-  • Responsável pelo marketing no TikTok e em outras Redes Sociais<br>
-  <b>🔹 Mini City</b><br>
-  DEV · Servidor Roblox<br>
-  • Desenvolvi bots para a infraestrutura: sistemas de tickets, denúncias e suporte<br>
-</p>
+## Estatísticas do GitHub
 
-###
+[![Estatísticas do GitHub do HeyyCzer](https://github.com/orenandev/orenandev/blob/output/stats.svg)](https://github.com/orenandev)
 
-<h2 align="left">💻 Stacks</h2>
+[![Linguagens Mais Utilizadas por HeyyCzer](https://github.com/orenandev/orenandev/blob/output/top-langs.svg)](https://github.com/orenandev)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img width="12" />
-  <img src="https://public-blob.squarecloud.dev/1004136030661779517/rblx.webp" height="40" alt="Luau"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" height="40" alt="Discord.js"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub"/>
-</div>
+## Discord
 
-###
+[![Status no Discord](https://lanyard.cnrad.dev/api/939137740925206589?hideActivity=whenNotUsed)](https://discord.com/users/939137740925206589)
 
-<h2 align="left">📊 Stats</h2>
-<div align="left">
-  <img src="https://streak-stats.demolab.com/?user=orenandev&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=orenandev&theme=tokyonight" height="150" alt="Top Languages"/>
-</div>
+## Cobra de Commits 🐍
 
-###
-
-<h2 align="left">📬 Contato</h2>
-
-<div align="left">
-  <a href="https://discord.com/users/939137740925206589" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-
-  <a href="https://orenandev.squareweb.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
-  </a>
-</div>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orenandev/orenandev/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/orenandev/orenandev/blob/output/github-snake-light.svg">
+  <img alt="Exibe um logotipo preto no modo claro e um logotipo branco no modo escuro." src="https://github.com/orenandev/orenandev/blob/output/github-snake-dark.svg">
+</picture>
