@@ -1,6 +1,8 @@
 # Seja Bem-vindo ao Meu Perfil 👋
 
-[![Website](https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge)](https://orenandev.squareweb.app/)
+<a href="https://orenandev.squareweb.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=webstorm" height="50" />
+</a>
 
 Olá, sou o Renan um adolescente apaixonado por tecnologia.
 
