@@ -1,6 +1,6 @@
 # Seja Bem-vindo ao Meu Perfil 👋
 
-Olá, sou [![Renan](https://orenandev.squareweb.app/), um adolescente apaixonado por tecnologia.
+Olá, sou [Renan](https://orenandev.squareweb.app/), um adolescente apaixonado por tecnologia.
 
 ## Sobre Mim
 
