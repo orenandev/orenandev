@@ -13,9 +13,11 @@ Olá, sou o Renan um adolescente apaixonado por tecnologia.
 
 ## Estatísticas do GitHub
 
-[![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg)](https://github.com/orenandev)
-
-[![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg)](https://github.com/orenandev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-light.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
+</picture>
 
 ## Discord
 
