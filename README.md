@@ -13,11 +13,9 @@ Olá, sou o Renan um adolescente apaixonado por tecnologia.
 
 ## Estatísticas do GitHub
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-light.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
-</picture>
+[![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg)](https://github.com/orenandev)
+
+[![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg)](https://github.com/orenandev)
 
 ## Discord
 
@@ -26,7 +24,7 @@ Olá, sou o Renan um adolescente apaixonado por tecnologia.
 ## Cobra de Commits 🐍
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/orenandev/orenandev/blob/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/orenandev/orenandev/blob/output/github-snake-light.svg">
-  <img alt="Exibe um logotipo preto no modo claro e um logotipo branco no modo escuro." src="https://github.com/orenandev/orenandev/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-light.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
 </picture>
