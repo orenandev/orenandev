@@ -20,11 +20,3 @@ Olá, sou o Renan um adolescente apaixonado por tecnologia.
 ## Discord
 
 [![Status no Discord](https://lanyard.cnrad.dev/api/939137740925206589?hideActivity=whenNotUsed)](https://discord.com/users/939137740925206589)
-
-## Cobra de Commits 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-light.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
-</picture>
