@@ -1,10 +1,6 @@
 # Seja Bem-vindo ao Meu Perfil 👋
 
-<a href="https://orenandev.squareweb.app/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=webstorm" height="50" />
-</a>
-
-Olá, sou o Renan um adolescente apaixonado por tecnologia.
+Olá, sou [Renan](https://orenandev.squareweb.app/), um adolescente apaixonado por tecnologia.
 
 ## Sobre Mim
 
