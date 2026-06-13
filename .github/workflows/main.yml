@@ -35,7 +35,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&locale=pt-br
           path: dist/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       # Top Languages Card
       - name: Generate Top Languages Card
@@ -44,7 +44,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=github_dark&layout=compact&locale=pt-br
           path: dist/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PAT }}
 
       # Commit and Push
       - name: Commit generated files
@@ -56,4 +56,4 @@ jobs:
 
           git diff --staged --quiet || git commit -m "chore: update github stats"
 
-          git push
+          git push origin main
