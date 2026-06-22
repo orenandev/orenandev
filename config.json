@@ -1,0 +1,63 @@
+{
+  "autenticacao": {
+    "token": "SEU_TOKEN_AQUI"
+  },
+  "logs": {
+    "canallogs": "1507842220009591096"
+  },
+  "sincronizacaoCargos": {
+    "serverLogs": "1469693200771055730",
+    "serverPrincipal": "1448124636268335266",
+    "mapeamento": [
+      {
+        "nome": "adm",
+        "cargoPrincipal": "1448216862897995797",
+        "cargoLogs": "1469693543210680473"
+      },
+      {
+        "nome": "respgeral",
+        "cargoPrincipal": "1448124637337620661",
+        "cargoLogs": "1469693513859076189"
+      },
+      {
+        "nome": "dev",
+        "cargoPrincipal": "1448124637308518429",
+        "cargoLogs": "1469693502484123871"
+      },
+      {
+        "nome": "mod",
+        "cargoPrincipal": "1448216898650243193",
+        "cargoLogs": "1469693554648551628"
+      }
+    ]
+  },
+  "antiraid": {
+    "limites": {
+      "canais": 2,
+      "cargos": 2,
+      "bans": 5,
+      "kicks": 5,
+      "webhooks": 3,
+      "intervaloCanais": 300000,
+      "intervaloCargos": 300000,
+      "intervaloBans": 10000,
+      "intervaloKicks": 10000,
+      "intervaloWebhooks": 60000
+    }
+  },
+  "automod": {
+    "duracaoCastigoMs": 2419200000,
+    "intervaloReaplicacao": 43200000,
+    "honeypot": {
+      "nomeCanal": "🚫┊nao-faleaqui"
+    },
+    "antiLink": {
+      "duracaoAvisoMs": 6000
+    },
+    "antiSpamImagens": {
+      "minimoImagens": 4,
+      "minimoCanais": 2,
+      "intervalo": 120000
+    }
+  }
+}
