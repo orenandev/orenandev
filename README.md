@@ -18,8 +18,8 @@ Olá, sou **Renan**, um adolescente apaixonado por tecnologia.
 
 ## Estatísticas do GitHub
 
-[![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg?v=2)](https://github.com/orenandev)
-[![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg)](https://github.com/orenandev)
+[![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg?v=3)](https://github.com/orenandev)
+[![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg?v=3)](https://github.com/orenandev)
 
 ## Contribuições
 
