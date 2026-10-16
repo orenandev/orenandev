@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Olá, sou o Renan 👋
 
@@ -10,7 +10,7 @@
 
 ## Minha Empresa
 
-<div align="center">
+<div align="left">
 
 <a href="https://usecodelabs.com/">
   <picture>
@@ -24,7 +24,7 @@
 
 ## Stacks
 
-<div align="center">
+<div align="left">
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,robloxstudio,mysql,mongodb,python,git,github,discord&perline=11" alt="JavaScript, TypeScript, HTML, CSS, Roblox Studio, MySQL, MongoDB, Python, Git, GitHub, Discord" />
 
@@ -32,7 +32,7 @@
 
 ## Discord
 
-<div align="center">
+<div align="left">
 
 <a href="https://discord.com/users/939137740925206589">
   <img src="https://lanyard.cnrad.dev/api/939137740925206589?hideActivity=whenNotUsed" alt="Status no Discord" />
