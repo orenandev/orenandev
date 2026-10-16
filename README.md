@@ -8,7 +8,7 @@
 
 </div>
 
-## 🚀 Minha Empresa
+## Minha Empresa
 
 <div align="center">
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 🛠️ Stacks
+## Stacks
 
 <div align="center">
 
@@ -30,7 +30,7 @@
 
 </div>
 
-## 💬 Discord
+## Discord
 
 <div align="center">
 
