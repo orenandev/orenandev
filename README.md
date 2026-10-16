@@ -1,9 +1,9 @@
 <div align="left">
 
-# Olá, sou o Renan 👋
+# Seja bem-vindo ao meu perfil 👋
 
 <a href="https://github.com/orenandev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D294&vCenter=true&width=480&lines=Programador;Bots+de+Discord%2C+sites+e+sistemas;Apaixonado+por+tecnologia" alt="Programador · Bots de Discord, sites e sistemas · Apaixonado por tecnologia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D294&vCenter=true&width=480&lines=Ol%C3%A1!;Eu+sou+o+Renan;Sou+um+programador" alt="Olá! Eu sou o Renan. Sou um programador." />
 </a>
 
 </div>
