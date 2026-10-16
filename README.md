@@ -16,18 +16,6 @@ Olá, sou **Renan**, um adolescente apaixonado por tecnologia.
 
 ![Skill Badges](https://skillicons.dev/icons?i=js,ts,html,css,robloxstudio,mysql,mongodb,python,git,github,discord)
 
-## Estatísticas do GitHub
-
-[![GitHub Stats](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/stats.svg?v=3)](https://github.com/orenandev)
-[![Top Languages](https://raw.githubusercontent.com/orenandev/orenandev/main/dist/top-langs.svg?v=3)](https://github.com/orenandev)
-
-## Contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-dark.svg">
-  <img alt="Snake" src="https://raw.githubusercontent.com/orenandev/orenandev/main/dist/github-snake-light.svg">
-</picture>
-
 ## Discord
 
 [![Status no Discord](https://lanyard.cnrad.dev/api/939137740925206589?hideActivity=whenNotUsed)](https://discord.com/users/939137740925206589)
